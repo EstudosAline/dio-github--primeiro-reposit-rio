@@ -1,0 +1,192 @@
+INTRODUÇÃO A CULTURA ÁGIL
+
+*valores do manifesto àgil
+
+Documento criado em FEV/ 2021 por 17 desenvolvedores (Compartilhavam do mesmo fundamento)
+
+4 valores
+1 - Individuos e interações (Mais que processos e ferramentas)
+2 - Software em funcionamento (Mais que documentação abrangente)
+3 - Colaboração com o cliente (Mais que negociação de contratos)
+4 - Responder Mudanças (Mais que seguir um plano)
+
+
+12 Principios do manifesto
+(Material de apoio)
+
+CARACTERISTICA DE UM TIME ÁGIL
+
+- Alinhado com o cliente e stakeholders
+- Auto - organizado e responsável
+- Multidisciplinar
+- Entrega valor continuamente
+- Está sempre aprendendo
+- Melhoria contínua
+- Possui métricas e metas claras
+- Unido
+
+IMPORTÂNCIA DA AGILIDADE NO MUNDO DA TECNOLOGIA
+
+Inovação
+Entregas rápidas
+Eficiência
+
+Mundo que vivemos hoje:
+
+V Volatility / Volátil
+U Uncertainty / Incerto
+C Complexity / Complexo
+A Ambiguity / Ambíguo
+
+
+AULA 2 - PROJETO x PROCESSO (GERENCIAMENTO DE PROJETOS)
+
+Processo = - É recorrente e contínuo / É replicável / Geralmente e repetitivo e realizado regularmente
+  EX**Processo de solicitação de compra de uma empresa.
+Projeto = Um esforço temporário para atingir um objetivo / O resultado é exclusivo / Tem ínicio e fim bem definidos.
+  EX** Projeto de desenvolvimento de um novo modelo de fone de ouvido de uma marca.
+  
+MODELO ÁGIL x  TRADICIONAL
+
+* Modelo tradicional cascata (waterfall)
+
+Planejamento inicial (Escopo / Custo / Cronograma), Valor entregue no final.
+
+---> Análise - Projeto (Design) - Implementação - Teste - Entrega/ Manutenção
+  
+*Modelo ágil com SCRUM
+
+Terá ciclos, finais dos ciclos (sprints) entregas menores. 
+Planejamento por sprints e é (Iterativo e incremental), Valor entregue continuamente (FEEDBACK)
+Um melhor refinamento.
+
+Cada sprint:
+1ª PLanejar e Estimar
+2ª Implementar
+3ª Revisão e Retrospectiva
+
+GESTÃO ÁGIL
+
+uma forma de gestão que seja:
+
+- Flexível e que se adapte as mudanças
+- Colaborativa e que gere transparência
+- Voltada ao aprendizado
+- Entrega contínua de valor
+
+MÉTODOS E FERRAMENTAS ÁGEIS
+
+- Framework SCRUM
+- Extreme Programming (XP)
+- Kanban
+- OKR
+
+
+O QUE É SCRUM?
+
+É um framework que ajuda pessoa, times e organizações a gerar 
+valor por meio de soluções adaptativas para problemas complexos.
+
+Bases e pilares do SCRUM
+
+Empirismo - Foco na observação, tomando decisoes com base no que é observado e no  que é aprendido.
+
+Lean Thinking - Linha de pensamento, preza a melhora continua, evita desperdicios principalmente de tempo.
+
+
+PILARES SCRUM
+
+- Transparência;
+- Inspeção;
+- Adaptação.
+
+O FRAMEWORK SCRUM
+
+Nos dá o:
+porque?
+o que?
+
+o Como está incompleto propositalmente
+Reuniões diárias
+
+
+EXTREME PROGRAMMING (XP)
+
+- Interação próxima com os cliente;
+- Testagem constante;
+- Ciclos de desenvolvimento curtos.
+
+Objetivos principais: Ciclos de entregas rápidos, contínuos e incrementais, 
+para atingir os resultados esperados pelo cliente.
+
+O que tem no XP?
+
+- Ciclos
+- "Cerimônias"
+- Testes
+- Programação em pares
+- FEEDBACK
+- Aproximação com o cliente
+- Flexibilidade
+
+KANBAN
+
+e um metodo para definir, gerenciar e melhorar os serviços que entregam 
+trabalho de conhecimento, como serviços profissionais, 
+atividades criativas e o design de produtos físicos e de software.
+
+* formado por tres colunas
+- To do / Fazer;
+- Doing / Fazendo
+- Done / Feito.
+
+O QUE É OKR?
+
+Acronimo para:
+
+O - bjectives
+K - ey
+R - esults
+
+Criado pelo ex-CO da intel
+
+objetivo de simplificar a forma de encarar os chamados os principais
+objetivos estrategicos de uma empresa.
+
+***Objectives - descrições qualitativas que apontam a direção que 
+deverá ser seguida pela empresa.
+
+Tem que ser:
+- Claro
+- inspirador
+- desafiador
+- alinhado com a missão do negócio
+
+**Key Results - metas que determinam o atingimento do objetivo na metodologia OKR
+
+As mestas precisam ser quantitativas, baseadas em indicadores-chave 
+de desempenho (KPIs) e SMART: Especifica, mensuráveis, Atingiveis, relevantes e temporais.
+
+EXEMPLOS DE OKR:
+
+ 1ª resultado chave
+ KR1 - Integrar a base de dados dos 5 canais de atendimento.
+ KR2 - Contratar mais 15 atendentes e 1 gestor de comunidade
+ KR3 - Alcançar um NPS (Satisfação do cliente) de 80%
+ 
+ Beneficios OKR
+ 
+ - Agilidade
+ - Cooperação
+ - Transparência
+ - Monitoramento contínuo
+ 
+ FERRAMENTAS UTILIZADAS PARA GESTÃO ÁGIL
+ 
+ - Trello            - Jira
+ - Notion            - Clickup
+ - Miro              - Pipefy
+ - Monday            - Asana
+ - EasyRetro
+ 
+ MUITAS outras...

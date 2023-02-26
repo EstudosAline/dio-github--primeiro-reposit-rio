@@ -1,0 +1,117 @@
+UX Design - Cria o esqueleto do front end (wireframe), realiza pesquisas para entender as carateristicas do usuário, entende quem e a persona, desenha os prototipos para que o programador consiga seguir e os objetivos. 
+
+UI Designer (User Interface) - cuida das cores, fontes, tipografia e microinterações e estilos e layouts. deve ser integrado com o UX designer, ideias casadas.
+
+1ª etapa - criação do protótipo
+
+2ª etapa - Codificação (Saber qual parte da aplicação vai codificar)
+
+Modelo cliente - servidor: estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores de um recursi ou serviço, designados como servidores, e os requerentes dos serviços, designados como clientes.
+
+EX: Aplicativo de banco (requerente  - entramos no app para requerer/ solicitar uma informação
+
+*Front end - desenvolve a aplicação para o cliente / é responsável por desenvolver por meio do código uma interface gráfica, normalmente com as tecnologias base da web(HTML, CSS e JavaScript)
+
+Cria os códigos em um IDE - ambiente de desenvolvimento integrado tanto para front end quanto para back end
+Programador raíz - utiliza um editor de texto ou bloco de notas porém não tem auxilio a IDE (VS CODE) é mais util.
+
+*Back end - desenvolve a aplicação nos  servidores ou para os servidores.
+
+trabalha a maior parte dos casos fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa. sempre aplicando as devidas regras de negócio, validações e garantias em um ambiente onde o usuário final não tenha acesso e possa manipular algo.
+
+EX: JAVA, PHP e C#
+
+API (Interface de programação de aplicativos)
+Caminho entre front end e back end  -  intermediário de software que permite que dois aplicativos conversem.
+
+
+
+
+*****Linguagens de programações especificas para cada um.
+
+*FRAMEWORK
+
+De forma básica é um facilitador.
+Descomplica o trabalho, traz diversas soluções pré definidas.
+
+ANGULAR -  framework especifico para desenvolvedor front end, aplicações web - html javascript e css
+
+Aprender PHP antes de ir para o LARAVEL(Framework).
+
+VUE - framework especifico para desenvolvedor javascript
+
+SPRING- Framework especifico para o back end - JAVA
+
+*****Não focar em apenas um framework, focar nas liguagens a qual ele tem base
+
+
+*FULL STACK
+
+trabalha tanto como front e back
+
+*QA - Quality Assurance
+
+Cuida da qualidade de um produto ou serviço.
+deve ter conhecimento sobre as atividades do projeto, além de ter um perfil analítico.
+
+* INFRAESTRUTURA
+
+Modelo cliente - servidor: estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores de um recursi ou serviço, designados como servidores, e os requerentes dos serviços, designados como clientes.
+
+
+*******para ter uma nuvem privada e preciso Computadores especiais conhecidos como servidores.
+
+nuvem privada: 
+-Segurança da tecnologia da informação (Lógica e fisica)
+- Mão de obra especializada (Software e hardware)
+- Infraestrutura local
+
+*****Sistema operacional dos servidores são especificos para servidores.
+SIS ADM cuida do sistema operacional dos servidores.
+
+
+*CLOUD
+
+Nuvem Pública:
+
+EX: GCP Google cloud platform / liquid web/ salesforce / alibaba cloud / Azure / amazon web services / vm ware / oracle cloud.
+
+vantagens de migrar para a nuvem publica ("vantagem")
+
+1 - Preço (pague somente o que usar);
+2 - facilidade de contratação, configuração e infraestrutura;
+3 - Escalabilidade;
+4 - Performance.
+
+
+Cloud Computing é responsável pela estrutura de nuvem oferecida aos clientes.
+eele escolhe as tecnologias que serão usadas, quais operadores são mais interessantes, como as peças vão ser integradas - cuida do que foi construído.
+
+
+*DESENVOLVIMENTO MOBILE
+
+Android  - JAVA e/ou KOTLIN - linguagem relativamente nova para trabalhar com o mobile.
+
+Android studio - uma série de bibliotecas
+
+
+-IOS - SWIFT (Linguagem de programação utilizada)
+
+
+
+-Desenvolvimento híbrido (WEB)
+
+Atende tanto - Android e ios
+
+
+Bibliotecas a serem usadas
+Ionic - flutter e React native
+
+Não é aconselhavel criar jogo nesse tipo de desenvolvimento.
+
+
+
+
+
+
+12:19 16/02/2023

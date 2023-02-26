@@ -1,0 +1,319 @@
+*INTRODUÇÃO À PROGRAMAÇÃO E PENSAMENTO COMPUTACIONAL
+
+Pensamento computacional: Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritimos que podem ser implementados no computador.
+
+Sistemático e eficiente tanto na formulação quanto na resolução de problemas.
+
+A solução encontrada deve ser resolvida  pelo humano e pela máquina.
+
+É uma habilidade generelalista.
+
+É baseado em 4 pilares:
+
+- Decomposição ---> (Dividir um problema complexo em subproblemas);
+
+- Reconhecimento de padrões ---> (Identificar padrões ou tendências / Similaridades e diferenças entre os problemas / Padrão comportamental);
+
+- Abstração ---> (Explorar o conceito do problema para uma forma generalista) 
+
+- Design de Algorítimos ---> (Automatizar / Definir um passo a passo a solução do problema).
+
+EX:   INPUT ---> OPERATOR ---> OUTPUT
+
+É um processo contínuo, precisa estar refinando.
+Ao encontrar a solução de um problema, testar e aperfeiçoar.
+
+TESTAR, ANALISAR E REFINAR.
+
+
+COMPETÊNCIAS GERADAS:
+
+*PENSAMENTO SISTEMÁTICO;
+*COLABORAÇÃO DENTRO DA EQUIPE
+*CRIATIVIDADE E DESIGN
+*FACILITADOR
+
+
+
+
+*HABILIDADES COMPLEMENTARES
+
+- Raciocinio lógico; É uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema, 
+É preciso treinar, quanto mais se treina, mais fácil fica.
+
+--> Indução (Empirismo -Ciências experimentais)
+
+--> Dedução (Parte de leis e teorias - Ciências Exatas)
+
+--> Abdução (Conclusão - A partir de uma conclusão se tira a premissa / Processo investigativo / Diagnósticos)
+
+*****A partir de uma inferência temos o pensamento por síntese por construção e o analítico por análise.
+
+Dentro da inferência sintética temos a abdução e indução e a Analítica por dedução.
+
+
+- Aperfeiçoamento;
+
+*Melhoramento;
+
+*Aprimoramento;
+
+****Ato de aperfeiçoar;
+
+Melhor uso de recursos:
+--> Encontrar solução eficiente
+--> Otimizar processos
+
+Melhoras códigos e algoritmos:
+--> Simplificar linhas de código
+--> Funções bem definidas
+
+*Refinamento
+
+A partir de uma solução, determinar pontos de melhora e refinamento.
+
+
+
+*DECOMPOSIÇÃO
+
+" Dado um problema complexo, devemos quebra - lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis."
+
+Análise - Processo de quebrar e determinar partes menores e gerenciáveis. Estudar e explorar, Decompor em elementos constituintes, "realizar exame detalhado.
+
+Síntese - Combinar os elementos recompondo o problema original. Processo e reconstrução, consiste em reunir elementos distintos em um único elemento, fundir os elementos de maneira coerente dando sentido a solução.
+
+Ordem de execução das tarefas - Pode ser sequencial (em fila) ou Paralelo (Tarefas executadas concomitantemente + eficiência - tempo)
+
+Realizar a decomposição por si mesmo (by yourself)
+
+Como decompor? - Identifica ou coleta os dados - Agregar os dados - Funcionalidade
+
+Definir componentes e etapas 
+
+EX: Cozinhar
+
+1ª Identificar os igredientes;
+2ª Determinar a etapas (Sequencial ou pararelo);
+3ªExecutar cada etapa;
+4ª Agregar os igredientes para finalizar (Recompor com coerência);
+
+
+
+*RECONHECIMENTO DE PADRÕES
+
+- Modelo Base;
+
+- Estrutura invariante;
+
+- Repetição;
+
+Conhecemos os padrões através de similaridades e diferença.
+
+Abordagem --> Extração de características - Classificação de dados
+
+Diferentes Métodos de reconhecimento de padroes e Aplicações distintas.
+
+APLICAÇÕES:
+
+- Cassificação de dados;
+- Reconhecimento de imagem;
+- Reconhecimento de fala;
+- Análise de cenas;
+- Classificação de documentos;
+
+Machine Learning / Redes Neurais / Inteligência Artificial / Ciência de Dados utilizam o reconhecimento de padrões.
+
+
+*ABSTRAÇÃO
+
+Isolamento de um objeto da realidade.
+
+*ALGORITMOS
+
+Instruções executadas passo a passo para concluir uma tarefa.
+
+Como construir um algoritmo?
+
+- Compreensão do problema
+- Definição de entrada
+- Definir processamento
+- Definir dados de saída
+- Utilizar um metodo de construção 
+- Teste e diagnóstico
+
+Narrativa - Fluxograma - Pseudocódigo
+
+*****Treinar algoritimo no fluxograma e portugol.
+
+
+ESTUDO DE CASO CONCEITUAL: Perdido na floresta
+ESTUDO DE CASO APLICADO: Soma de um intervalo
+ESTUDO DE CASO APLICADO: Advinhe o número
+
+
+
+O QUE É LÓGICA?
+
+Organização e planejamento das instruções, assertivas em um algorítimo, a fim de viabilizar a implatação de um programa.
+
+TÉCNICAS DE LÓGICA DE PROGRAMAÇÃO
+
+- Técnica Linear / muito associada a matemática
+É a execução sequenciada de uma série de operações - Recursos Limitados - Unica dimensão.
+
+- Técnica Estruturada
+
+
+- Técinica Modular/ Controlada por um conjunto de regras
+
+
+TIPOLOGIAS E VARIAVEIS
+
+Funçao do computador : Processar informações que passamos pra ele - Informação / dados / Instruções
+
+Tipos Numéricos: Inteiros (positivos ou negativos que não possuem casas decimais) e reais (Todos)
+
+Tipo Caracteres:
+
+Tipo Lógico/ Booleano: Verdadeiro -1
+                                       Falso - 0
+
+
+VARIAVEL
+
+um tipo de estrutura mutável e inconstante.
+Mutável / Possui variações/ Incerto/ Inconstante/ Instável
+
+Pode assumir qualuqer um dos valores de um determinado conjunto de valores. Contudo, está restrita ao seu tipo se for do tipo numerico recebe números se for do tipo string recebe string.
+
+Nome da variável
+
+- Atribuição de um ou mais caracteres;
+- Primeira letra - não número;
+- Sem espaços em branco
+- Vedado
+    - >>Utilização de palavras reservadas;
+- Caracteres e números.
+
+Possui 1 papel (ou vai ser de ação - Modificação de estado / ou de controle - Vigiada, controle)
+
+Constante - Inalterável
+
+
+
+INSTRUÇÕES PRIMITIVAS
+
+Cálculos matemáticos  - Variáveis e constantes
+
+operadores podem ser binário ou unários 
+
+
+Outros conceitos
+
+Entrada - Processamento e saída
+
+Estrutura sequencial -> Média escolar.
+
+
+ESTRUTURA CONDICIONAIS E OPERADORES
+
+Simples / composta / encadeada
+
+Operadores lógicos:
+AND - Interseção
+OR - União
+NOT - Negação
+
+
+ESTRUTURAS DE REPETIÇÃO
+
+Enquanto ... faça
+
+Repita ... Até
+
+Para ... de ... até ... faça
+
+Podemos mesclar uma estrutura dentro da outra.
+
+
+
+VETORES E MATRIZES
+
+VETOR E UMA SEQUENCIA DE DADOS, SEQUENCIA DOS TIPOS DE DADOS.
+
+
+Matrizes - coleção de variáveis / Contiguas em memória (armazenadas juntamente na memória do computador)  / Índices
+
+Tipos abstratos de dados outras estruturas (ESTUDAR SOBRE)
+
+O QUE SÃO AS FUNÇÕES?
+
+VEM DA IDEIA DA MATEMATICA. Similar ao conceito de função matemática.
+
+ **são trechos de codigos com tarefas e objetivos especificos que podem ser chamados no codigo principal - Modularização do problema / codigo mais claro e conciso / reutilização de instruções.
+
+Função - São identificados por nomes e parametros
+
+Definição
+nome
+Invocação
+Variável local 
+
+A função efetivamente altera o estado do programa.
+
+
+INSTRUÇÕES DE ENTRADA E SAÍDA
+
+ENTRADA: Consiste n ainserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivos, entre outros.
+
+SAÍDA: Consiste na impressão dos dados do mundo abstrato, digital por meio de ação de alguma interface.
+Os formatos podem variar desde simples arquivos binários até complexas querys de banco de dados.
+
+
+
+EXISTEM DOIS TIPOS DE SAÍDA:
+
+ - Saída programada - Condicional (Aguarda o dispositivo) ou não
+ - Saida por interrupção - definida pelos periféricos
+
+
+
+INTRODUÇÃO A LINGUAGENS DE PROGRAMAÇÃO
+
+- História da computação;
+
+COMO UM COMPUTADOR ENTENDE O PROGRAMA?
+
+Codigo fonte - Traduzido ou interpretado
+
+Linguagem será enviada para um compilador e vai analisar e traduzir o código em uma linguagem de baixo nivel ex assembly.
+
+CARACTERÍSTICAS DE UM PROGRAMA
+
+
+Diretrizes:
+- legibilidade
+- Redigibilidade
+- Confiabilidade
+- Custo
+
+
+COMO O COMPUTADOR ANALISA NOSSO CODIGO
+
+- Lexical analyzer = Particionar / classificar / eliminar
+
+- Syntax Analyzer = corretude do programa
+
+- Semantic Analyzer = Lógica do programa
+
+
+
+PARADIGMAS DE PROGRAMAÇÃO
+
+
+Orientação a objeto
+- objeto possui : atributo ( oq ue tenho) / comportamento (sou capaz de fazer)  e estado (como faço)
+
+
+
+
