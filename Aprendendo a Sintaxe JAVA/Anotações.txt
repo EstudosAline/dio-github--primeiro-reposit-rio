@@ -1,0 +1,21 @@
+APRENDENDO A SINTAXE JAVA
+
+regras essenciais para a construção de códigos com base na lomguagem java.
+
+-JDK instalado
+-IDE escolhida
+-Diretório do projeto definido
+
+Anatomia das classes
+
+-Estrutura Inicial
+-Padrão de nomenclatura
+-Declarando variáveis e métodos
+-Identação
+-Organizando os arquivos
+-Java Beans
+
+https://glysns.gitbook.io/java-basico/
+
+ANATOMIA DAS CLASSES 1
+

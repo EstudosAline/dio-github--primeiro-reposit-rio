@@ -1,0 +1,165 @@
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto
+$ git clone https://github.com/EstudosAline/dio-github--primeiro-reposit-rio.git
+Cloning into 'dio-github--primeiro-reposit-rio'...
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (8/8), done.
+remote: Total 12 (delta 2), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (12/12), done.
+Resolving deltas: 100% (2/2), done.
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto
+$ cd dio-github--primeiro-reposit-rio
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        "Apresenta\303\247\303\243o Bootcamp JAVA Developer Banco PAN/"
+        "Como entregar seu Desafio de C\303\263digo/"
+        "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/"
+        "Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software/"
+        "Introdu\303\247\303\243o ao Git e GitHub/"
+        "Trabalhando em Equipes \303\201geis/"
+        apostila-java-orientacao-objetos.pdf
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$ git add .
+warning: in the working copy of 'Introdução a Programação e Pensamento Computacional/Portugol Soma_Intervalo.por', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Introdução a Programação e Pensamento Computacional/Portugol media_aluno.por', LF will be replaced by CRLF the next time Git touches it
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   "Apresenta\303\247\303\243o Bootcamp JAVA Developer Banco PAN/Certificado - Conhe\303\247a as Oportunidades da DIO.pdf"
+        new file:   "Apresenta\303\247\303\243o Bootcamp JAVA Developer Banco PAN/Seja Protagonista neste Bootcamp.pdf"
+        new file:   "Como entregar seu Desafio de C\303\263digo/Certificado - Como entregar seu desafio de c\303\263digo .pdf"
+        new file:   "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Anota\303\247\303\265es.txt"
+        new file:   "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Certificado - Introdu\303\247\303\243o \303\240 programa\303\247\303\243o e Pensamento Computacional.pdf"
+        new file:   "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Portugol Soma_Intervalo.por"
+        new file:   "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Portugol media_aluno.por"
+        new file:   "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Slide - Introdu\303\247\303\243o \303\240 programa\303\247\303\243o e Pensamento Computacional.pdf"
+        new file:   "Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software/Anota\303\247\303\265es.txt"
+        new file:   "Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software/Certificado - Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software.pdf"
+        new file:   "Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software/Slide - Desenvolvimento Moderno de Software.pptx"
+        new file:   "Introdu\303\247\303\243o ao Git e GitHub/Anota\303\247\303\265es .txt"
+        new file:   "Introdu\303\247\303\243o ao Git e GitHub/Certificado - Introdu\303\247\303\243o ao GIT e ao GitHub.pdf"
+        new file:   "Trabalhando em Equipes \303\201geis/Anota\303\247\303\265es.txt"
+        new file:   "Trabalhando em Equipes \303\201geis/Certificado - Trabalhando em equipes \303\241geis .pdf"
+        new file:   "Trabalhando em Equipes \303\201geis/Slide -  Trabalhando em Equipes \303\201geis.pdf"
+        new file:   apostila-java-orientacao-objetos.pdf
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Portugol Soma_Intervalo.por"
+        deleted:    "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Portugol media_aluno.por"
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Portugol media_aluno.txt"
+        "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Portugol soma_intervalo.txt"
+
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$ git add .
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   "Apresenta\303\247\303\243o Bootcamp JAVA Developer Banco PAN/Certificado - Conhe\303\247a as Oportunidades da DIO.pdf"
+        new file:   "Apresenta\303\247\303\243o Bootcamp JAVA Developer Banco PAN/Seja Protagonista neste Bootcamp.pdf"
+        new file:   "Como entregar seu Desafio de C\303\263digo/Certificado - Como entregar seu desafio de c\303\263digo .pdf"
+        new file:   "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Anota\303\247\303\265es.txt"
+        new file:   "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Certificado - Introdu\303\247\303\243o \303\240 programa\303\247\303\243o e Pensamento Computacional.pdf"
+        new file:   "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Portugol media_aluno.txt"
+        new file:   "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Portugol soma_intervalo.txt"
+        new file:   "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Slide - Introdu\303\247\303\243o \303\240 programa\303\247\303\243o e Pensamento Computacional.pdf"
+        new file:   "Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software/Anota\303\247\303\265es.txt"
+        new file:   "Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software/Certificado - Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software.pdf"
+        new file:   "Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software/Slide - Desenvolvimento Moderno de Software.pptx"
+        new file:   "Introdu\303\247\303\243o ao Git e GitHub/Anota\303\247\303\265es .txt"
+        new file:   "Introdu\303\247\303\243o ao Git e GitHub/Certificado - Introdu\303\247\303\243o ao GIT e ao GitHub.pdf"
+        new file:   "Trabalhando em Equipes \303\201geis/Anota\303\247\303\265es.txt"
+        new file:   "Trabalhando em Equipes \303\201geis/Certificado - Trabalhando em equipes \303\241geis .pdf"
+        new file:   "Trabalhando em Equipes \303\201geis/Slide -  Trabalhando em Equipes \303\201geis.pdf"
+        new file:   apostila-java-orientacao-objetos.pdf
+
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$ git commit -m "Inclusão dos arquivos do curso da DIO"
+[main 7f06a50] Inclusão dos arquivos do curso da DIO
+ 17 files changed, 354059 insertions(+)
+ create mode 100644 "Apresenta\303\247\303\243o Bootcamp JAVA Developer Banco PAN/Certificado - Conhe\303\247a as Oportunidades da DIO.pdf"
+ create mode 100644 "Apresenta\303\247\303\243o Bootcamp JAVA Developer Banco PAN/Seja Protagonista neste Bootcamp.pdf"
+ create mode 100644 "Como entregar seu Desafio de C\303\263digo/Certificado - Como entregar seu desafio de c\303\263digo .pdf"
+ create mode 100644 "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Anota\303\247\303\265es.txt"
+ create mode 100644 "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Certificado - Introdu\303\247\303\243o \303\240 programa\303\247\303\243o e Pensamento Computacional.pdf"
+ create mode 100644 "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Portugol media_aluno.txt"
+ create mode 100644 "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Portugol soma_intervalo.txt"
+ create mode 100644 "Introdu\303\247\303\243o a Programa\303\247\303\243o e Pensamento Computacional/Slide - Introdu\303\247\303\243o \303\240 programa\303\247\303\243o e Pensamento Computacional.pdf"
+ create mode 100644 "Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software/Anota\303\247\303\265es.txt"
+ create mode 100644 "Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software/Certificado - Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software.pdf"
+ create mode 100644 "Introdu\303\247\303\243o ao Desenvolvimento Moderno de Software/Slide - Desenvolvimento Moderno de Software.pptx"
+ create mode 100644 "Introdu\303\247\303\243o ao Git e GitHub/Anota\303\247\303\265es .txt"
+ create mode 100644 "Introdu\303\247\303\243o ao Git e GitHub/Certificado - Introdu\303\247\303\243o ao GIT e ao GitHub.pdf"
+ create mode 100644 "Trabalhando em Equipes \303\201geis/Anota\303\247\303\265es.txt"
+ create mode 100644 "Trabalhando em Equipes \303\201geis/Certificado - Trabalhando em equipes \303\241geis .pdf"
+ create mode 100644 "Trabalhando em Equipes \303\201geis/Slide -  Trabalhando em Equipes \303\201geis.pdf"
+ create mode 100644 apostila-java-orientacao-objetos.pdf
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$ git push origin main
+Enumerating objects: 26, done.
+Counting objects: 100% (26/26), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (25/25), done.
+Writing objects: 100% (25/25), 58.28 MiB | 9.95 MiB/s, done.
+Total 25 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (5/5), done.
+To https://github.com/EstudosAline/dio-github--primeiro-reposit-rio.git
+   632727e..7f06a50  main -> main
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$
+
+Aline@DESKTOP-OHQLVST MINGW64 ~/Desktop/Banco PAN - Bootcamp/Desafio de Projeto/dio-github--primeiro-reposit-rio (main)
+$

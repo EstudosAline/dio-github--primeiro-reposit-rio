@@ -1,0 +1,36 @@
+HISTÓRIA DO JAVA
+
+linguagem de programação orientada a objetos.
+
+caracteristicas do JAVA
+-Linguagem interpretada
+
+Programa java -> Compilador -> Programa.class (bytecode) -> JVM -> Liguagem de máquina 1000000101101
+
+plataforma x Linguagem
+
+- java não é a unica linguagem da plataforma java. 
+-  A plataforma não está presa a um unico sistema operacional ou hardware.
+-programas rodam através de uma máquina virtual que pode ser emulada (JRE)
+
+JAVA SE (java platform, standard edition - base da plataforma, traz classe comuns entres as plataformas;
+
+JAVA EE (java platform, enterprise edition - cuida do desenvolvimento web);
+
+JAVA ME (java platform, micro edition - cuida do desenvolvimento de dispositivos moveis e embarcados - sistema que roda em um dispositivo e tem função propria).
+
+FASES DE EXECUÇÃO DO JAVA
+
+1 - escrevemos o codigo fonte (arquivo com extensão .java);
+
+2- utilizamos o JDK para compilar o codigo fonte e gerar o arquivo bytecode (arquivo com a extensão .class);
+
+3- para executar o seu programa, a JVM lê o arquivo compilando (.class) e as bibliotecas padroes do java que estão no JRE
+
+Debug - encontrar e corrigir erros que podem aparecer no nosso programa.
+
+sistema de calculadora.
+
+Estudar mais Debug, muito importante.
+
+
